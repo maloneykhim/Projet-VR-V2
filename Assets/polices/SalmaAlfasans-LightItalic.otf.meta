@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: adad4f430a82d614e95d81066e1b2f15
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Salma Alfasans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb7fe575663e4924c97aab7cc69a8d47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
