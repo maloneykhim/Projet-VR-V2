@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene-reve-nuages-lumieres.unity
     guid: 2dc144c18391c7340aaf0d3c4d3a9cbe
+  - enabled: 1
+    path: Assets/Scenes/Chambre.unity
+    guid: fd1a6817ce3609a47bf0d1f0984c9e81
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2c2d2b9c4f9eb5a4fbfe76e119b2cc9d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5ba314f29496d4b43ad48a7d12798ffd, type: 2}
