@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/UI.unity
-    guid: c52bf1e864a4046439c7d7a58ebf5b4c
+    path: Assets/Scenes/accueil.unity
+    guid: c67813bf154efae448d3be7a8a2a7157
+  - enabled: 1
+    path: "Assets/Scenes/cr\xE9dits.unity"
+    guid: d4de7a6676de4f541b7e1fe3973b9cfb
   - enabled: 1
     path: Assets/Scenes/scene-reve-nuages-lumieres.unity
     guid: 2dc144c18391c7340aaf0d3c4d3a9cbe
